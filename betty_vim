@@ -1,0 +1,7 @@
+set number
+set relativenumber
+colorscheme slate
+set smartindent
+set cindent
+set autoindent
+syntax enable
