@@ -1,6 +1,10 @@
 #include <stdio.h>
 
-/*This is my first c program at alx */
+/**
+*main - Entry point
+*
+*Return: Always 0 (Success)
+*/
 
 int main(void)
 {
