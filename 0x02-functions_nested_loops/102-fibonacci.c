@@ -35,6 +35,5 @@ int fibonacci(void)
 		j = fib;
 	n++;
 	}
-	printf("\n");
 return (0);
 }
