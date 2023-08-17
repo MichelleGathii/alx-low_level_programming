@@ -23,11 +23,11 @@ int fibonacci(void)
 
 	printf("%ld, %ld, ", i, j);
 	n = 0;
-	while (n <= 48)
+	while (n <= 47)
 	{
 		fib = i + j;
 		printf("%ld", fib);
-		if (n != 48)
+		if (n != 47)
 			printf(", ");
 		else
 			printf("\n");
